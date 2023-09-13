@@ -1,3 +1,0 @@
-Este es un fichero de texto
-que quiero subir al repositorio remoto
-
